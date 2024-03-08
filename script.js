@@ -1,0 +1,8 @@
+console.log(12)
+console.log(20)
+console.log(20.3)
+console.log(2.33)
+console.log(6 + 2)
+console.log(6 - 2)
+console.log(6 * 2)
+console.log(3 * (6 / 2) * 4 + (10 - 3))
